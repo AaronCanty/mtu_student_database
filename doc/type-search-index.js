@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ie.mtu.cs.oop.ass1.controller","l":"Controller"}];updateSearchResults();
